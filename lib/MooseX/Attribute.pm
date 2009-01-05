@@ -1,13 +1,12 @@
 package MooseX::Attribute;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 
 use warnings;
 use strict;
 use Moose;
 use Moose::Exporter;
-# use Moose::Util::MetaRole;
 use Moose::Util qw/:all/;
 use MooseX::Attribute::Prototype;
 	
@@ -36,7 +35,7 @@ MooseX::Attribute - create extendable and reusable attributes
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 

@@ -21,4 +21,4 @@ requires:
   Moose::Util: 0
   Moose::Util::MetaRole: 0
   MooseX::AttributeHelpers: 0.13
-version: 0.01
+version: 0.02

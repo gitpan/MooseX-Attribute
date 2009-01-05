@@ -1,5 +1,8 @@
 Revision history for MooseX-Attribute
 
+0.02    2009-01-04
+        - Cleaned up comments and code in MooseX::Attribute::Role
+
 0.01    2008-12-27
         First Release.
 
